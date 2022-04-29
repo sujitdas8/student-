@@ -1,0 +1,14 @@
+body{
+	color:#0D8DF0;
+}#ff{
+	border: 2px solid red;
+	height: 250px;
+	width: 300px;
+	margin-left: 400px;
+	position: absolute;
+	top: 200px;
+	text-align: center;
+}form{
+	margin-top: 50px;
+	
+}
