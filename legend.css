@@ -1,0 +1,22 @@
+body{
+	background-image: url("hh.jpg");
+	background-size: 100%;
+}li{
+	display: inline;
+		padding-left: 25px;
+}ul{
+	background-color: blue;
+}a{
+	color: white;
+}h1{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+	color:#0DE8F0;
+}marquee{
+	color: yellow;
+	
+}a:hover{
+	font-size: 50px;
+	
+}
